@@ -1,0 +1,13 @@
+name: OneInTheDodge
+version: '${project.version}'
+main: me.betun.oneinthedodge.OneInTheDodge
+api-version: '1.20'
+commands:
+  reset:
+    description: Reset al shrink-start
+    usage: /reset
+    permission: default
+  recargar:
+    description: Recarga la config
+    usage: /recargar
+    permission: default

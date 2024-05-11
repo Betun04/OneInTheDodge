@@ -1,0 +1,16 @@
+tps:
+  - -14,79,10
+  - -24,79,0
+corners:
+  corner1: -9,75,-5
+  corner2: -19,75,5
+shrink:
+  limit: 3
+  #Dont change start value
+  start: 0
+arrow-spawns:
+  team1: -14,76,-6
+  team2: -14,76,6
+teams:
+  1: "Verde"
+  2: "Rojo"
