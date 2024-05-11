@@ -165,8 +165,6 @@ class PlayerListener : Listener {
                     world.getBlockAt(Location(world,corner4[0].toDouble(),corner4[1].toDouble(),i.toDouble())).type = Material.AIR
                 }
             }
-
-            world.sendMessage(Component.text("$corner1,$corner3,$corner4,$corner2"))
         }
 
 }
